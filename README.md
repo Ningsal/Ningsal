@@ -1,20 +1,4 @@
-**안녕하세요 컴퓨터 공학과 23학번 문찬석입니다.**
-
-rhcuasdlksakd las;kdasd asd
-asd
-asds
-adsa
-dsa
- das
-  dsa
-  d 
-  sad
-  sa
-  dsad
-  sad
-  a
-  s
-  a
+**안녕하세요 영남대학교 컴퓨터공학과 23학번 문찬석입니다.**
 
 <!--
 **Ningsal/Ningsal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
